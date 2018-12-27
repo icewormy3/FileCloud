@@ -1,0 +1,16 @@
+#autosettings for hivemc-ncp made by icewormy3
+load ncp
+ 
+KillAura InteractAutoBlock false
+Speed Mode NCPBHop
+Phase Mode Mineplex
+Fly Mode OtherHypixel
+Step Height 5.00
+Step Delay 100
+WallClimb Mode Simple
+#toggles
+SuperKnockback toggle false
+#chat
+chat wallclimb only climbs 2 blocks.
+chat step glitches sometimes.
+chat mineplex phase only works 1 block, and skip phase got patched
