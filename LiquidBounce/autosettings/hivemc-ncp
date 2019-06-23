@@ -1,7 +1,10 @@
 # AutoSettings for HiveMC NCP
 load ncp
 
-KillAura Range 7
-KillAura TargetMode Single
 Speed Mode NCPBHop
-Fly Mode Hypixel
+Fly Mode BoostHypixel
+Phase Mode Skip
+#toggles
+SuperKnockback toggle false
+#chat
+chat for phase to work, walk inside a block until it lets you phase (Only working in hide and seek and skygiants
