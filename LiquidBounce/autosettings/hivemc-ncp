@@ -2,6 +2,7 @@
 load ncp
 
 KillAura ThroughWallsRange 3.00
+KillAura Range 4.25
 Speed Mode NCPBHop
 Fly Mode BoostHypixel
 Phase Mode Skip
